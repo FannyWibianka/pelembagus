@@ -1,4 +1,4 @@
-<img src="pala.png" height="300px" /><img src="kotlin.png" height="300px" />
+<img src="pala.png" height="300px" /><img src="kotlin.png" height="300px" /><br><hr>
 Belajar Kotlin  
 Membuat aplikasi sederhana untuk menampilkan film populer 
 
