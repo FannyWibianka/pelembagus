@@ -2,7 +2,7 @@
 Belajar Kotlin  
 Membuat aplikasi sederhana untuk menampilkan film populer 
 
-<a href="https://github.com/pottsed/pelembagus/blob/master/Android-Module-Kotlin-Movie.pdf"><strong>Download Modul diatas</strong></a>
+<a href="https://github.com/pottsed/pelembagus/blob/master/Android-Module-Kotlin-Movie.pdf"><strong>Preview Modul</strong></a>
 
 Jika ada masukan atau pertanyaan bisa kirim melalui melalui web form pada link berikut <a href="https://mitchell.webku.cf/Project/Hacktiv8/DevC-FinalProject/contact.php">Contact form punya Mitchell</a>
 
